@@ -5,7 +5,7 @@
 import math
 
 class data():
-    """ Holds input from button"""
+    """ Holds input from GUI"""
     lvalue = None;
     rvalue = None;
     rsl = None;
