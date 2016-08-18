@@ -13,4 +13,4 @@ A calculator that does more than just what your ordinary desktop calculator does
   -> C:\user\\...\program_location> python Calculator.py
   
   On Linux:
-  -> Just run the script as a command
+  -> Just run Calculator.py as a command
