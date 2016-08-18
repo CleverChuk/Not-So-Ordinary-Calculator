@@ -10,7 +10,7 @@ A calculator that does more than just what your ordinary desktop calculator does
   <br>
   -> if python is already in your PATH
   <br>
-  -> C:\user\program_location> python Calculator.py
+  -> C:\user\...\program_location> python Calculator.py
   
   On Linux:
   -> Just run the script as a command
