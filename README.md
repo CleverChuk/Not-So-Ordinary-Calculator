@@ -3,7 +3,8 @@ A calculator that does more than just what your ordinary desktop calculator does
 
 This project was started from a conversation I had with one of my viewers on [liveEdu](https://liveedu.tv). This just a simple calculator that is very customizable and you can add your own custom operation if you know a little code and lambdas.
   
-#### To run the program: 
+To run the program:
+------------------
   
 > You need python 3.x
    
